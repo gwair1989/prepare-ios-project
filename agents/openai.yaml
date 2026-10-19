@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prepare iOS Project"
+  short_description: "Prepare iOS projects for agents and SDD"
+  default_prompt: "Use $prepare-ios-project to prepare this iOS project for autonomous agent work while preserving its existing structure."

@@ -1,0 +1,16 @@
+{
+  "project": "Example.xcodeproj",
+  "scheme": "Example",
+  "scheme_path": "Example.xcodeproj/xcshareddata/xcschemes/Example.xcscheme",
+  "configuration": "Debug",
+  "minimum_ios": "18.0",
+  "test_targets": ["ExampleTests", "ExampleUITests"],
+  "source_directories": ["Example", "ExampleTests", "ExampleUITests"],
+  "simulator_device_type": "com.apple.CoreSimulator.SimDeviceType.iPhone-16",
+  "xcode_jobs": 4,
+  "lock_timeout_seconds": 1800,
+  "command_timeout_seconds": 1800,
+  "prerequisites": [],
+  "sdd": "lightweight",
+  "tools": {"swiftformat": "0.63.0", "swiftlint": "0.65.1", "xcbeautify": "3.2.1"}
+}
