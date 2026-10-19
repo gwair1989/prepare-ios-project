@@ -108,4 +108,4 @@ For task instructions, see [SKILL.md](SKILL.md). For behavioral evaluation scena
 
 ## License
 
-A license has not been selected yet.
+[MIT](LICENSE). Copyright (c) 2026 gwair1989.

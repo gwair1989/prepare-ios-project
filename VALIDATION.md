@@ -21,3 +21,7 @@ python3 -m unittest discover -s assets/harness/scripts/tests -v
 ```
 
 Client discovery proves that the installed versions recognize the skill. A complete preparation run in an iOS project, a simulator build/test and a cloud CI run were not performed for this packaging change. Future behavior checks should use the [acceptance scenarios](references/acceptance.md) and record their own evidence.
+
+## License follow-up
+
+On 2026-10-19 the owner selected MIT. Added `LICENSE` with copyright `2026 gwair1989` and updated README. The license text matches GitHub's MIT template with those placeholders filled; package validation and `git diff --check` passed. Runtime code is unchanged, so the harness tests and client discovery checks above were not repeated.
